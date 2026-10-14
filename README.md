@@ -32,6 +32,19 @@ ________________________________________
 Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
 
 
+ 
+# Ответ:  
+-- 2. Создайте два пустых публичных репозитория в любом своём проекте: vector-role и lighthouse-role.
+<img width="1208" height="445" alt="image" src="https://github.com/user-attachments/assets/ce085f88-606f-4c0d-a759-6604fbff07f7" />
+
+-- 3.  Создаем requirements.yml и далее загрузка роли clickhouse.  Создаем рабочую директорию для playbook:
+
+-- Создаем файл requirements.yml
+-- Загружаем роль:
+
+
+-- ansible-galaxy install -r requirements.yml -p roles
+
 
 
 
